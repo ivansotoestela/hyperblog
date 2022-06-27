@@ -3,3 +3,7 @@ esta es la historia
 para modificar de Edgar Ivan Soto Estela con 38 años
 
 no borrar esta linea ya que es la ultima
+
+Como realizar los cambios en el sistema
+
+Cada una de ellas es cambiada por ls cambio al realizar el merge
